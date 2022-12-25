@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Football</string>
+    <string name="menuItem1">Добавить команду</string>
+    <string name="menuItem2">Удалить всё</string>
+    <string name="menuItem4">Найти</string>
+    <string name="menuItem3">Выход</string>
+</resources>
